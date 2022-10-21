@@ -1,0 +1,50 @@
+
+body{
+ 
+
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.header-image{
+    max-width: 30%;
+}
+/* background color */
+
+.header{
+    background-color: #1f2937;
+
+}
+
+/* nav-bar style */
+
+
+
+
+
+.hero-main-text{
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #e5e7eb;
+}
+
+.header-link-text{
+    color: #e5e7eb;
+}
+
+.header-logo{
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.hero-secondary-text{
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
